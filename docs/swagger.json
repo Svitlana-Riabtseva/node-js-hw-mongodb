@@ -11,7 +11,12 @@
   },
   "servers": [
     {
-      "url": "http://localhost:3000"
+      "url": "http://localhost:3000",
+      "description": "Local development server"
+    },
+    {
+      "url": "https://node-js-hw-mongodb-q3r7.onrender.com",
+      "description": "Production server"
     }
   ],
   "tags": [
